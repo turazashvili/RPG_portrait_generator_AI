@@ -1,0 +1,6 @@
+{
+  "name": "RPG Portrait Generator",
+  "description": "An application that uses AI to generate unique fantasy RPG character portraits based on user-defined characteristics like name, race, class, and key features.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
