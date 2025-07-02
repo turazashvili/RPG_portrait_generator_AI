@@ -37,7 +37,7 @@
 
 ### Example Generated Portrait
 
-![Gimli Portrait](./gimli_portrait.jpeg)
+![Gimli Portrait](./readme_assets/demopic.png)
 *Generated Dwarven warrior in the Lord of the Rings universe*
 
 Create portraits like this in seconds! Simply:
